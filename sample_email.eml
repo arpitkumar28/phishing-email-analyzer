@@ -7,3 +7,8 @@ Content-Type: text/plain; charset="utf-8"
 
 This is a sample email for cybersecurity training.
 Please analyze its headers safely.
+
+Review these links for training:
+https://example.com/account
+http://192.0.2.123/login
+https://trusted.example@evil.example/login
